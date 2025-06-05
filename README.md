@@ -15,7 +15,7 @@ This bundle aims to provide a simple Kafka transport for Symfony Messenger. Kafk
 Open a command console, enter your project directory and execute:
 
 ```console
-$ composer require koco/messenger-kafka
+$ composer require jobcloud/messenger-kafka
 ```
 
 ### Applications that don't use Symfony Flex
